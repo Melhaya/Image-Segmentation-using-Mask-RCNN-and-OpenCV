@@ -12,7 +12,7 @@ The steps of this project are the following:
 * Visualize the extracted ROI, the mask, along with the segmented instance
 
 The project directories are the following:
-* mask-rcnn-coco/: The Mask R-CNN model files. There are three files:
+* mask-rcnn-coco/: The Mask R-CNN model files. There are three files: (Can be downloaded from this link [https://drive.google.com/drive/folders/1s7FrRx8ljb_nC5hPxcNsjLYMsD78TlGZ?usp=sharing])
   * frozen_inference_graph.pb: The Mask R-CNN model weights. The weights are pre-trained on the COCO dataset.
   * mask_rcnn_inception_v2_coco_2018_01_28.pbtxt: The Mask R-CNN model configuration.
   * object_detection_classes_coco.txt: All 90 classes are listed in this text file, one per line. 
