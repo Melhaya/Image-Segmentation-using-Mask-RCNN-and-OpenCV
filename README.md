@@ -21,7 +21,7 @@ The project directories are the following:
 
 [//]: # (Image References)
 
-[image1]: ./relevant_images/training_distribution.png "Training Visualization"
+[image1]: ./output/Figure_1.png "Mask-RCNN output"
 
 ---
 
@@ -43,3 +43,6 @@ The Mask R-CNN was trained on the COCO dataset, which has L=90 classes, thus the
 Mask R-CNN combined with OpenCV made it very efficient and fast.
 
 ### Output of the Model
+
+[image1]
+
