@@ -44,5 +44,4 @@ Mask R-CNN combined with OpenCV made it very efficient and fast.
 
 ### Output of the Model
 
-[image1]
-
+![alt text][image1]
