@@ -15,7 +15,7 @@ ap.add_argument("-i", "--image", required=True,
 	help="path to input image")
 ap.add_argument("-m", "--mask-rcnn", required=True,
 	help="base path to mask-rcnn directory")
-ap.add_argument("-c", "--confidence", type=float, default=0.8,
+ap.add_argument("-c", "--confidence", type=float, default=0.7,
 	help="minimum probability to filter weak detections")
 ap.add_argument("-t", "--threshold", type=float, default=0.3,
 	help="minimum threshold for pixel-wise mask segmentation")
